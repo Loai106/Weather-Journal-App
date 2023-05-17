@@ -1,7 +1,7 @@
 
 /* Global Variables */
 const baseUrl ='http://api.openweathermap.org/data/2.5/forecast?zip=';
-const apiKey ='&appid=4263cccf0782635b3a4a9a366a0dac51&units=metric';
+//you must add your api key and call the variable "apiKey"
 let zip= document.getElementById('zip');
 let feelings =document.getElementById("feelings");
 console.log(feelings);
